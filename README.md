@@ -1,1 +1,1 @@
-# project1-music-player
+# s25-bootcamp-musicplayer
